@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', 'Sans-serif';
+}
+
+section {
+  background: #002147;
+  color: #a3adb9;
+}
+
+.right {
+  float: right;
+}
+
+li {
+  display: inline-block;
+  color: #a3adb9;
+  padding: 5px 14px;
+  line-height: 30px;
+  border-right: 1px solid #043267;
+  font-size: 12px;
+}
+
